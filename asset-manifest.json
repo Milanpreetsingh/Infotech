@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Infotech/static/css/main.4efed1d2.chunk.css",
+    "main.js": "/Infotech/static/js/main.03b69334.chunk.js",
+    "main.js.map": "/Infotech/static/js/main.03b69334.chunk.js.map",
+    "runtime-main.js": "/Infotech/static/js/runtime-main.1a9585d8.js",
+    "runtime-main.js.map": "/Infotech/static/js/runtime-main.1a9585d8.js.map",
+    "static/js/2.daa5193f.chunk.js": "/Infotech/static/js/2.daa5193f.chunk.js",
+    "static/js/2.daa5193f.chunk.js.map": "/Infotech/static/js/2.daa5193f.chunk.js.map",
+    "index.html": "/Infotech/index.html",
+    "precache-manifest.b7bfce91e08b7498c560d3b140199621.js": "/Infotech/precache-manifest.b7bfce91e08b7498c560d3b140199621.js",
+    "service-worker.js": "/Infotech/service-worker.js",
+    "static/css/main.4efed1d2.chunk.css.map": "/Infotech/static/css/main.4efed1d2.chunk.css.map",
+    "static/js/2.daa5193f.chunk.js.LICENSE.txt": "/Infotech/static/js/2.daa5193f.chunk.js.LICENSE.txt",
+    "static/media/pic1.png": "/Infotech/static/media/pic1.c58cb726.png",
+    "static/media/pic2.png": "/Infotech/static/media/pic2.126b93a3.png",
+    "static/media/pic3.png": "/Infotech/static/media/pic3.7c14d8ea.png",
+    "static/media/pic_italian1.png": "/Infotech/static/media/pic_italian1.3dc34a8d.png",
+    "static/media/pic_italian2.png": "/Infotech/static/media/pic_italian2.4051079f.png",
+    "static/media/pic_italian3.png": "/Infotech/static/media/pic_italian3.5b247201.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a9585d8.js",
+    "static/js/2.daa5193f.chunk.js",
+    "static/css/main.4efed1d2.chunk.css",
+    "static/js/main.03b69334.chunk.js"
+  ]
+}
